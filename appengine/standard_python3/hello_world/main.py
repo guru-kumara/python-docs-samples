@@ -29,7 +29,7 @@ def hello():
     Returns:
         A string with the words 'Hello World!'.
     """
-    return random(10)
+    return 5
 
 
 if __name__ == "__main__":
